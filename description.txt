@@ -1,0 +1,1 @@
+TMMC is a modding tutorial series on youtube that covers multiple different basic modding concepts. This mod contains those concepts as well as advances on what is covered in the tutorials.

@@ -1,0 +1,3 @@
+displayName = Terraria Modding Master Class
+author = FoolsLynx
+version = 1.0

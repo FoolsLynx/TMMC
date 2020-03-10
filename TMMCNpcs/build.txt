@@ -1,3 +1,0 @@
-displayName = TMMC NPC Pack
-author = FoolsLynx
-version = 0.1

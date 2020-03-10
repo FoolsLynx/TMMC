@@ -1,3 +1,0 @@
-displayName = TMMC World
-author = FoolsLynx
-version = 0.1
