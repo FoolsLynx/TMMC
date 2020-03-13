@@ -12,12 +12,17 @@ namespace TMMC.Items
 {
     public class TMMCBasicItem : ModItem
     {
+        public override void SetStaticDefaults()
+        {
+            DisplayName.SetDefault("Green Scale");
+        }
+
         public override void SetDefaults()
         {
             item.width = 12;
             item.height = 12;
             item.rare = ItemRarityID.Blue;
-            item.value = Item.buyPrice(copper: 10);
+            item.value = Item.sellPrice(copper: 10);
             item.maxStack = 999;
         }
     }

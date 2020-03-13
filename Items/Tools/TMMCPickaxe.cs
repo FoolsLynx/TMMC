@@ -12,7 +12,7 @@ namespace TMMC.Items.Tools
         {
             item.Size = new Vector2(28);
             item.rare = ItemRarityID.Blue;
-            item.value = Item.buyPrice(silver: 20);
+            item.value = Item.sellPrice(silver: 20);
 
             item.autoReuse = true;
             item.useTime = 13;

@@ -17,7 +17,7 @@ namespace TMMC.Items.Weapons
         {
             item.Size = new Vector2(38);
             item.rare = ItemRarityID.Blue;
-            item.value = Item.buyPrice(silver: 22);
+            item.value = Item.sellPrice(silver: 22);
 
             item.useTime = 15;
             item.useAnimation = 15;
