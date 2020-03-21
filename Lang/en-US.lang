@@ -3,7 +3,7 @@
 ItemName.TMMCBroadsword=Scaled Broadsword
 ItemName.TMMCShortsword=Scaled Shortsword
 ItemName.TMMCBow=Scaled Bow
-ItemName.TMMCYoyo=Scaled YoYo
+ItemName.TMMCYoyo=Scaled Yoyo
 ItemName.TMMCGun=Scaled Revolver
 ItemName.TMMCStaff=Scaled Staff
 
@@ -13,6 +13,7 @@ ItemName.TMMCHammer=Scaled Hammer
 ItemName.TMMCHamaxe=Scaled Hamaxe
 ItemName.TMMCDrill=Scaled Drill
 
+
 ItemName.TMMCArmourChestplate=Scaled Chestplate
 ItemName.TMMCArmourHelmet=Scaled Helmet
 ItemName.TMMCArmourGreaves=Scaled Greaves
@@ -21,3 +22,40 @@ ItemName.TMMCMeleeAccessory=Thorned Scale
 ItemName.TMMCRangedAccessory=Spiked Scale
 
 ItemName.TMMCBullet=Scaled Bullet
+
+ItemName.TMMCOre=Mythrim Ore
+ItemName.TMMCBar=Mythrim Bar
+
+ItemName.TMMCSpecialBar=Bloodskal Bar
+
+ItemName.TMMCWorkBench=Scale Work Bench
+ItemName.TMMCSpecialWorkBench=Bloodskal Work Bench
+
+ItemName.TMMCForge=Mana Furnace
+ItemTooltip.TMMCForge=Used for crafting special items
+
+ItemName.TMMCChest=Scaled Chest
+ItemName.TMMCChestKey=Scaled Key
+
+ItemName.TMMCClock=Scaled Clock
+ItemName.TMMCBed=Scaled Bed
+
+
+MapObject.TMMCOre=Mythrim
+
+MapObject.TMMCWorkBenches=Work Bench
+MapObject.TMMCForge=Mana Furnace
+
+MapObject.TMMCChest=Scaled Chest
+MapObject.TMMCChest_Locked=Locked Scaled Chest
+
+MapObject.TMMCClock=Scaled Clock
+MapObject.TMMCBed=Scaled Bad
+
+
+
+
+
+ProjectileName.TMMCYoyo=Scaled Yoyo
+
+ProjectileName.TMMCDrill=Scaled Drill
